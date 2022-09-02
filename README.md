@@ -54,3 +54,11 @@ The Election data that was provided, below are the results :
 
 
 ## Election Audit Summary
+
+This Colorado Election analysis tool is very useful to analysis with any election analysis. As currently we are analyzing for County and Candidates Voting percentage, based on the data provided it can be further enhanced other scenario :
+  * Calculate the voting % by Zip Code
+  * Voting for Entire US election by State
+  * Voting distribution by Gender , Qualification , region
+
+
+  This required minimal change in the Election analysis tool and the results can be achieved.
